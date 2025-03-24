@@ -38,6 +38,6 @@ footer {
 }
 
 resize-img {
-    width: 150px; /* Set width */
+    width: 50px; /* Set width */
     height: auto; /* Maintain aspect ratio */
 }
