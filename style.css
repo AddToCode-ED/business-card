@@ -37,7 +37,7 @@ footer {
     width: 100%;
 }
 
-.resize-img {
+resize-img {
     width: 150px; /* Set width */
     height: auto; /* Maintain aspect ratio */
 }
