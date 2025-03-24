@@ -40,7 +40,8 @@ footer {
 
 resize-img {
     width: 50px; /* Set width */
-    height: auto; /* Maintain aspect ratio */
+    height: 50px; /* Maintain aspect ratio */
     margin-top: 10px;
     border-radius: 10px;
+    padding: 20px;
 }
